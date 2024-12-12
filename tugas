@@ -1,1 +1,14 @@
-<DOCTYPE
+<DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Latihan</title>
+            <style rel="stylesheet" href="styles.css"></style>
+        </head>
+        <body>
+            <header>
+                <h1>BOOKS</h1>
+            </header>
+        </body>
+    </html>
